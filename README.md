@@ -16,7 +16,7 @@ Fork this repo in [repl.it](https://replit.com)
 
 Go to [UptimeRobot](https://uptimerobot.com).
 
-<br> Copy the url that is shown above the white box on replit.
+<br> Copy the url that is shown above the console on replit.
 
 <br> Click Create Monitor in UptimeRobot and select HTTP, Give a cool name, and paste the link.
 
